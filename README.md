@@ -1,159 +1,107 @@
-%-------------------------
-% Resume - Naman Bharsakale
-%-------------------------
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naman+Bharsakale+👋;Full+Stack+Developer+🚀;Open+Source+Enthusiast+💡;Problem+Solver+⚡" alt="Typing SVG" />
+</h1>
 
-\documentclass[letterpaper,10pt]{article}
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NamanBharsakale&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/naman-bharsakale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
-\usepackage{tabularx}
-\usepackage{multicol}
-\usepackage{xcolor}
-\input{glyphtounicode}
+</p>
 
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+---
 
-\addtolength{\oddsidemargin}{-0.6in}
-\addtolength{\evensidemargin}{-0.6in}
-\addtolength{\textwidth}{1.2in}
-\addtolength{\topmargin}{-.65in}
-\addtolength{\textheight}{1.3in}
+## 🙋‍♂️ About Me
 
-\urlstyle{same}
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
+- 🎓 **B.Tech in CSE** @ Walchand College of Engineering, Sangli *(2025–2028)*
+- 🏆 Diploma in Computer Engineering @ Govt. Polytechnic Amravati *(2022–2025)*
+- 📍 Maharashtra, India
+- 💼 Ex-Trainee @ **Mountreach Solutions Pvt. Ltd.**
+- 🔭 Currently building: **[OpenNest](https://open-nest.vercel.app/)** — AI-powered open source connector
+- 🌱 Learning: **DSA · System Design · Cloud**
+- ⚡ Fun fact: I love turning ideas into real, deployed products!
 
-\titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large\color{black}
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+---
 
-\pdfgentounicode=1
+## 🛠️ Tech Stack
 
-\newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,tailwind,mongodb,mysql,git,github,postman,vercel,firebase&perline=7" />
+</p>
 
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
-}
+---
 
-\newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
-}
+## 🚀 Featured Projects
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+### 🌐 [OpenNest](https://open-nest.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/NamanBharsakale/OpenNest)
+> AI-powered platform that connects developers to open-source projects based on GitHub profile skills.  
+> Features: AI repo analyzer · Gamified badges · Skill selector  
+> **Stack:** React · Node.js · MongoDB · Express · Ollama AI · Tailwind · GitHub API
 
-%-------------------------------------------
-\begin{document}
+---
 
-%----------HEADING----------
-\begin{center}
-    {\Huge \scshape \textbf{Naman Bharsakale}} \\ \vspace{6pt}
-    {\small Maharashtra, India} \\ \vspace{4pt}
-    \small
-    \href{tel:7498438300}{+91 7498438300} $|$
-    \href{https://www.linkedin.com/in/naman-bharsakale/}{LinkedIn} $|$
-    \href{https://github.com/NamanBharsakale}{GitHub}
-\end{center}
+### 🔐 [Sanctum Sanctorum](https://sanctum-sanctorum.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/NamanBharsakale/Sanctum-Sanctorum)
+> Inspired by Doctor Strange — a secure personal vault to store notes, links, and YouTube videos.  
+> Features: User auth · Organized storage · PDF upload *(coming soon)*  
+> **Stack:** Node.js · Tailwind CSS · Supabase · Vercel
 
-%-----------EDUCATION-----------
-\section{Education}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Walchand College of Engineering, Sangli}{2025 -- 2028}
-      {B.Tech in Computer Science and Engineering}{}
-    \vspace{5pt}
-    \resumeSubheading
-      {Government Polytechnic Amravati}{2022 -- 2025}
-      {Diploma in Computer Engineering}{}
-  \resumeSubHeadingListEnd
+---
 
-%-----------EXPERIENCE-----------
-\section{Experience}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Mountreach Solutions Pvt. Ltd.}{Amravati, India}
-      {Software Engineering Trainee}{2024}
-      \resumeItemListStart
-        \resumeItem{Developed Android applications using \textbf{Java} backend, integrating \textbf{Google Maps API} to calculate real-time distances between store locations, improving logistics efficiency.}
-        \resumeItem{Implemented \textbf{Firebase Cloud Messaging} to enable broadcast notifications to all users, enhancing communication workflows.}
-        \resumeItem{Integrated multiple third-party APIs and utilities to extend app functionality, collaborating with team members in an agile environment.}
-      \resumeItemListEnd
-  \resumeSubHeadingListEnd
+## 📊 GitHub Stats
 
-%-----------PROJECTS-----------
-\section{Projects}
-  \resumeSubHeadingListStart
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanBharsakale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanBharsakale&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-    \resumeProjectHeading
-      {\textbf{OpenNest} $|$ \emph{React, Node.js, MongoDB, Ollama AI, GitHub API, Tailwind CSS}}
-      {\href{https://open-nest.vercel.app/}{[Live]} \quad \href{https://github.com/NamanBharsakale/OpenNest}{[GitHub]}}
-      \resumeItemListStart
-        \resumeItem{Built an \textbf{AI-powered platform} that connects developers to open-source projects by analyzing GitHub profiles and matching them with relevant repositories.}
-        \resumeItem{Integrated \textbf{Ollama AI API} for intelligent repo recommendations; implemented \textbf{gamified badge system} and customizable skill selector for personalized contributions.}
-        \resumeItem{Deployed full-stack MERN application on Vercel with CI/CD via GitHub integration.}
-      \resumeItemListEnd
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanBharsakale&theme=tokyonight&hide_border=true" />
+</p>
 
-    \vspace{6pt}
-    \resumeProjectHeading
-      {\textbf{Sanctum Sanctorum} $|$ \emph{Node.js, Supabase, Tailwind CSS, Vercel}}
-      {\href{https://sanctum-sanctorum.vercel.app/}{[Live]} \quad \href{https://github.com/NamanBharsakale/Sanctum-Sanctorum}{[GitHub]}}
-      \resumeItemListStart
-        \resumeItem{Designed and developed a \textbf{secure personal knowledge management platform} enabling authenticated users to store notes, links, and YouTube videos in a centralized hub.}
-        \resumeItem{Integrated \textbf{Supabase} for authentication and real-time database management, ensuring data security and scalable storage.}
-        \resumeItem{Architected feature roadmap including PDF upload functionality, applying \textbf{product thinking principles} to prioritize user needs and accessibility.}
-      \resumeItemListEnd
+---
 
-  \resumeSubHeadingListEnd
+## 🏆 Achievements
 
-%-----------TECHNICAL SKILLS-----------
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages:}{ Java, Python, JavaScript} \\
-     \textbf{Frameworks \& Libraries:}{ React.js, Node.js, Tailwind CSS} \\
-     \textbf{Databases:}{ MySQL, MongoDB, Supabase} \\
-     \textbf{Tools \& Platforms:}{ Git, GitHub, Postman, Vercel, Firebase, Android Studio} \\
-     \textbf{Concepts:}{ REST APIs, Data Structures \& Algorithms, Agile Development, Full-Stack Development}
-    }}
- \end{itemize}
+| 🥇 | Achievement | Proof |
+|----|-------------|-------|
+| 🏅 | **Finalist** — TechSprint 2k26 Hackathon *(300+ participants)* | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Finalist-techsprint2k26.pdf) |
+| 🥇 | **1st Place** — InnovateX Coding + Debugging Challenge *(200+ participants)* | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Achievement-1stWinner_InnovateX_%20Quiz%20and%20Debugging.jpg) |
+| 🎤 | **State Level** — Represented GPA at MSBTE State Paper Presentation | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Acheivement-Represented%20GPA%20in%20MSBTE%20state%20level%20paper%20presentation.jpg) |
 
-%-----------ACHIEVEMENTS-----------
-\section{Honors \& Achievements}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Finalist -- TechSprint 2k26 Hackathon:} Recognized as a top finalist among 300+ participants, delivering an innovative software solution under competitive constraints. \href{https://github.com/NamanBharsakale/certificates-achievements/blob/main/Finalist-techsprint2k26.pdf}{[Certificate]} \\[2pt]
-     \textbf{1st Place -- InnovateX Coding \& Debugging Challenge:} Secured first position in a combined coding and debugging competition among 200+ participants. \href{https://github.com/NamanBharsakale/certificates-achievements/blob/main/Achievement-1stWinner_InnovateX_%20Quiz%20and%20Debugging.jpg}{[Certificate]} \\[2pt]
-     \textbf{MSBTE State-Level Paper Presentation:} Elected as the sole institutional representative from Government Polytechnic Amravati at the Maharashtra state-level technical paper presentation. \href{https://github.com/NamanBharsakale/certificates-achievements/blob/main/Acheivement-Represented%20GPA%20in%20MSBTE%20state%20level%20paper%20presentation.jpg}{[Certificate]} \\[2pt]
-     \textbf{Academic Rank 2 -- Government Polytechnic Amravati:} Secured second rank across the entire Diploma program with 95.42\%, among top performers college-wide. \\[2pt]
-     \textbf{Academic Rank 1 -- School:} Achieved first rank in school, demonstrating consistent academic excellence throughout secondary education.
-    }}
- \end{itemize}
+---
 
-%-------------------------------------------
-\end{document}
+## 📚 Coursework
+
+`Data Structures & Algorithms` · `DBMS` · `Computer Networks` · `Software Engineering`
+
+---
+
+## 💼 Experience
+
+**Trainee — Mountreach Solutions Pvt. Ltd., Amravati**
+- Built Android apps with Java backend
+- Integrated **Google Maps API** for distance calculation between stores
+- Used **Firebase Cloud Messaging** for broadcast notifications
+- Worked with various REST APIs and Android utilities
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-bharsakale/">
+    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Bharsakale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="/cdn-cgi/l/email-protection#3e505f535f505c565f4c4d5f555f525b7e59535f5752105d5153">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to
