@@ -6,10 +6,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naman+Bharsakale+👋;Full+Stack+Developer+🚀;Open+Source+Enthusiast+💡;Problem+Solver+⚡" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NamanBharsakale&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/naman-bharsakale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
