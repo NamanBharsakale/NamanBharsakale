@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%94%A5;MERN+Stack+Dev+%F0%9F%92%BB;JAVA+Programmer+%E2%9A%A1;Python+Developer+%F0%9F%90%8D" alt="Floating Roles" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naman+Bharsakale+👋;Full+Stack+Developer+🚀;Open+Source+Enthusiast+💡;Problem+Solver+⚡" alt="Typing SVG" />
 </h1>
@@ -92,7 +100,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Naman%20Bharsakale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#3e505f535f505c565f4c4d5f555f525b7e59535f5752105d5153">
+  <a href="mailto:namanbharsakale@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -104,4 +112,5 @@
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
