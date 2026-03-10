@@ -7,21 +7,34 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanBharsakale&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/naman-bharsakale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/naman-bharsakale/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NamanBharsakale&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
+**🔥 Backend Developer & Software Engineer | Crafting Scalable Systems, One API at a Time**
+
+> *"I don't just write code — I engineer solutions, architect systems, and ship products that matter."*
+
+I'm **Naman Bharsakale**, a passionate **Backend Developer & Engineer** with a strong foundation in building robust, scalable server-side applications. Currently expanding my horizons as a **Full Stack Developer in training**, while actively diving deep into the world of **Artificial Intelligence & Machine Learning** — because the future belongs to those who build it.
+
+My journey started with a love for problem-solving and has evolved into a relentless pursuit of crafting real-world products that people actually use. From designing RESTful APIs and working with databases to deploying full-stack apps on the cloud — I live and breathe engineering.
+
 - 🎓 **B.Tech in CSE** @ Walchand College of Engineering, Sangli *(2025–2028)*
 - 🏆 Diploma in Computer Engineering @ Govt. Polytechnic Amravati *(2022–2025)*
 - 📍 Maharashtra, India
 - 💼 Ex-Trainee @ **Mountreach Solutions Pvt. Ltd.**
 - 🔭 Currently building: **[OpenNest](https://open-nest.vercel.app/)** — AI-powered open source connector
-- 🌱 Learning: **DSA · System Design · Cloud**
+- 🌱 Learning: **Full Stack Development · DSA · System Design · AI/ML · Cloud**
+- 🤖 Exploring: **Machine Learning, LLMs, and AI-powered product development**
 - ⚡ Fun fact: I love turning ideas into real, deployed products!
 
 ---
@@ -29,7 +42,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,tailwind,mongodb,mysql,git,github,postman,vercel,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,react,nodejs,express,php,tailwind,mongodb,mysql,postgres,firebase,git,github,postman,vercel,androidstudio&perline=7" />
+</p>
+
+<p align="center">
+  <!-- Additional tools as badges -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon_DB-00E699?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-1B1B1B?style=for-the-badge&logo=thunderclient&logoColor=white" />
 </p>
 
 ---
@@ -61,15 +83,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanBharsakale&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanBharsakale&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanBharsakale&theme=tokyonight" width="100%" />
+</p>
 
-| 🥇 | Achievement | Proof |
-|----|-------------|-------|
-| 🏅 | **Finalist** — TechSprint 2k26 Hackathon *(300+ participants)* | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Finalist-techsprint2k26.pdf) |
-| 🥇 | **1st Place** — InnovateX Coding + Debugging Challenge *(200+ participants)* | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Achievement-1stWinner_InnovateX_%20Quiz%20and%20Debugging.jpg) |
-| 🎤 | **State Level** — Represented GPA at MSBTE State Paper Presentation | [View Certificate](https://github.com/NamanBharsakale/certificates-achievements/blob/main/Acheivement-Represented%20GPA%20in%20MSBTE%20state%20level%20paper%20presentation.jpg) |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NamanBharsakale&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamanBharsakale&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NamanBharsakale&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NamanBharsakale&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
